@@ -621,5 +621,12 @@
     "description": "Most starred developer on GitHub with over 750,000 stars. Created hundreds of influential open source tools and libraries including Yeoman, AVA, and Got. Pioneer in modern open source development practices and JavaScript tooling. His packages are downloaded billions of times monthly.",
     "year": "1989-present",
     "mainContribution": "JavaScript Ecosystem & Open Source"
-  }
+  },
+  {
+    "id": "lars-bak",
+    "name": "Lars Bak",
+    "description": "Created Dart programming language and V8 JavaScript engine. Pioneer in virtual machine technology, having worked on Self, Strongtalk, HotSpot (Java VM), V8, and Dart VM. His work revolutionized dynamic language performance.",
+    "year": "1965-present",
+    "mainContribution": "Dart & V8"
+  },
 ]
