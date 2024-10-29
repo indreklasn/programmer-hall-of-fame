@@ -586,5 +586,33 @@
     "description": "Co-created BASIC programming language with John Kemeny. Pioneer in making computing accessible to students and non-specialists. Developed the Dartmouth Time Sharing System.",
     "year": "1928-present",
     "mainContribution": "BASIC"
+  },
+  {
+    "id": "william-shockley",
+    "name": "William Shockley",
+    "description": "Co-invented the transistor at Bell Labs, revolutionizing electronics and making modern computing possible. Founded Shockley Semiconductor Laboratory, which led to Silicon Valley's creation.",
+    "year": "1910-1989",
+    "mainContribution": "Transistor"
+  },
+  {
+    "id": "john-bardeen",
+    "name": "John Bardeen",
+    "description": "Co-invented the transistor at Bell Labs. Only person to win two Nobel Prizes in Physics, one for the transistor and one for superconductivity theory. His work enabled the digital revolution.",
+    "year": "1908-1991",
+    "mainContribution": "Transistor"
+  },
+  {
+    "id": "walter-brattain",
+    "name": "Walter Brattain",
+    "description": "Co-invented the transistor at Bell Labs with Shockley and Bardeen. Key contributor to semiconductor physics and surface states theory. His experimental work was crucial to the transistor's development.",
+    "year": "1902-1987",
+    "mainContribution": "Transistor"
+  },
+  {
+    "id": "gordon-moore",
+    "name": "Gordon Moore",
+    "description": "Co-founded Intel and formulated Moore's Law. Pioneer in semiconductor manufacturing and integrated circuits. His prediction about transistor density guided the semiconductor industry for decades.",
+    "year": "1929-2023",
+    "mainContribution": "Moore's Law & Intel"
   }
 ]
