@@ -1,0 +1,318 @@
+[
+  {
+    "id": "ada-lovelace",
+    "name": "Ada Lovelace",
+    "description": "First person to recognize that computers could do more than just calculations. Wrote the first algorithm meant to be processed by a machine.",
+    "year": "1815-1852",
+    "mainContribution": "First Computer Program"
+  },
+  {
+    "id": "alan-turing",
+    "name": "Alan Turing",
+    "description": "Father of theoretical computer science and artificial intelligence. Created the Turing machine concept and broke the Enigma code.",
+    "year": "1912-1954",
+    "mainContribution": "Computer Science Foundations"
+  },
+  {
+    "id": "grace-hopper",
+    "name": "Grace Hopper",
+    "description": "Invented the first compiler and instrumental in developing COBOL. Pioneered machine-independent programming languages.",
+    "year": "1906-1992",
+    "mainContribution": "First Compiler"
+  },
+  {
+    "id": "linus-torvalds",
+    "name": "Linus Torvalds",
+    "description": "Created Linux kernel and Git. Changed open source forever and gave us the foundation of modern cloud computing.",
+    "year": "1969-present",
+    "mainContribution": "Linux & Git"
+  },
+  {
+    "id": "tim-berners-lee",
+    "name": "Tim Berners-Lee",
+    "description": "Invented the World Wide Web. Created HTTP, HTML, and laid the foundation for the modern internet.",
+    "year": "1955-present",
+    "mainContribution": "World Wide Web"
+  },
+  {
+    "id": "donald-knuth",
+    "name": "Donald Knuth",
+    "description": "Wrote 'The Art of Computer Programming'. Pioneered the field of algorithm analysis and created TeX typesetting.",
+    "year": "1938-present",
+    "mainContribution": "Algorithm Analysis"
+  },
+  {
+    "id": "dennis-ritchie",
+    "name": "Dennis Ritchie",
+    "description": "Created C programming language and co-developed Unix. His work influences nearly all modern software.",
+    "year": "1941-2011",
+    "mainContribution": "C & Unix"
+  },
+  {
+    "id": "margaret-hamilton",
+    "name": "Margaret Hamilton",
+    "description": "Lead developer for Apollo Guidance Computer software. Pioneered software engineering and system reliability.",
+    "year": "1936-present",
+    "mainContribution": "Software Engineering"
+  },
+  {
+    "id": "ken-thompson",
+    "name": "Ken Thompson",
+    "description": "Co-created Unix, invented B programming language (precursor to C), and created UTF-8 encoding.",
+    "year": "1943-present",
+    "mainContribution": "Unix & UTF-8"
+  },
+  {
+    "id": "bjarne-stroustrup",
+    "name": "Bjarne Stroustrup",
+    "description": "Created C++ programming language, bringing object-oriented programming to C and revolutionizing software development.",
+    "year": "1950-present",
+    "mainContribution": "C++"
+  },
+  {
+    "id": "john-carmack",
+    "name": "John Carmack",
+    "description": "Pioneered 3D graphics techniques and founded id Software. Created groundbreaking game engines and popularized first-person 3D games.",
+    "year": "1970-present",
+    "mainContribution": "3D Graphics Engines"
+  },
+  {
+    "id": "guido-van-rossum",
+    "name": "Guido van Rossum",
+    "description": "Created Python programming language. Made programming more accessible with focus on readability and simplicity.",
+    "year": "1956-present",
+    "mainContribution": "Python"
+  },
+  {
+    "id": "james-gosling",
+    "name": "James Gosling",
+    "description": "Created Java programming language. Brought 'Write Once, Run Anywhere' to software development.",
+    "year": "1955-present",
+    "mainContribution": "Java"
+  },
+  {
+    "id": "richard-stallman",
+    "name": "Richard Stallman",
+    "description": "Founded GNU Project and Free Software Foundation. Pioneer of the free software movement and copyleft licensing.",
+    "year": "1953-present",
+    "mainContribution": "Free Software Movement"
+  },
+  {
+    "id": "vint-cerf",
+    "name": "Vint Cerf",
+    "description": "Co-invented TCP/IP protocols. Known as one of the 'Fathers of the Internet' for his fundamental contributions.",
+    "year": "1943-present",
+    "mainContribution": "TCP/IP Protocol"
+  },
+  {
+    "id": "brendan-eich",
+    "name": "Brendan Eich",
+    "description": "Created JavaScript in 10 days. His work made dynamic web pages possible and revolutionized web development.",
+    "year": "1961-present",
+    "mainContribution": "JavaScript"
+  },
+  {
+    "id": "anders-hejlsberg",
+    "name": "Anders Hejlsberg",
+    "description": "Created Turbo Pascal, Delphi, C#, and TypeScript. Pioneered modern development tools and type systems.",
+    "year": "1960-present",
+    "mainContribution": "C# & TypeScript"
+  },
+  {
+    "id": "yukihiro-matsumoto",
+    "name": "Yukihiro Matsumoto",
+    "description": "Created Ruby programming language. Focused on developer happiness and elegant code design.",
+    "year": "1965-present",
+    "mainContribution": "Ruby"
+  },
+  {
+    "id": "john-mccarthy",
+    "name": "John McCarthy",
+    "description": "Invented Lisp programming language and coined the term 'Artificial Intelligence'. Pioneer of AI research.",
+    "year": "1927-2011",
+    "mainContribution": "Lisp & AI"
+  },
+  {
+    "id": "douglas-engelbart",
+    "name": "Douglas Engelbart",
+    "description": "Invented the computer mouse and pioneered human-computer interaction. Demonstrated the first hypertext system.",
+    "year": "1925-2013",
+    "mainContribution": "Computer Mouse & HCI"
+  },
+  {
+    "id": "bill-joy",
+    "name": "Bill Joy",
+    "description": "Co-founded Sun Microsystems. Created vi editor and contributed significantly to BSD Unix and Java.",
+    "year": "1954-present",
+    "mainContribution": "Vi & BSD Unix"
+  },
+  {
+    "id": "ward-cunningham",
+    "name": "Ward Cunningham",
+    "description": "Invented the wiki. Pioneered patterns in programming and Extreme Programming practices.",
+    "year": "1949-present",
+    "mainContribution": "Wiki & Pattern Languages"
+  },
+  {
+    "id": "larry-wall",
+    "name": "Larry Wall",
+    "description": "Created Perl programming language. Revolutionized text processing and system administration.",
+    "year": "1954-present",
+    "mainContribution": "Perl"
+  },
+  {
+    "id": "barbara-liskov",
+    "name": "Barbara Liskov",
+    "description": "Developed Liskov Substitution Principle and invented abstract data types. Pioneer in programming language design.",
+    "year": "1939-present",
+    "mainContribution": "Abstract Data Types"
+  },
+  {
+    "id": "tony-hoare",
+    "name": "Tony Hoare",
+    "description": "Invented QuickSort algorithm and pioneered formal verification. Also known for null reference (his 'billion-dollar mistake').",
+    "year": "1934-present",
+    "mainContribution": "QuickSort & Formal Methods"
+  },
+  {
+    "id": "martin-fowler",
+    "name": "Martin Fowler",
+    "description": "Pioneered software patterns, refactoring, and agile methodologies. Influential in software architecture and design.",
+    "year": "1963-present",
+    "mainContribution": "Software Patterns"
+  },
+  {
+    "id": "rasmus-lerdorf",
+    "name": "Rasmus Lerdorf",
+    "description": "Created PHP programming language. Helped shape modern web development and server-side scripting.",
+    "year": "1968-present",
+    "mainContribution": "PHP"
+  },
+  {
+    "id": "rob-pike",
+    "name": "Rob Pike",
+    "description": "Co-created Go programming language, UTF-8, and Plan 9 OS. Significant contributions to Unix development.",
+    "year": "1956-present",
+    "mainContribution": "Go Language"
+  },
+  {
+    "id": "niklaus-wirth",
+    "name": "Niklaus Wirth",
+    "description": "Created Pascal, Modula, and Oberon languages. Pioneer in programming language design and computer architecture.",
+    "year": "1934-present",
+    "mainContribution": "Pascal"
+  },
+  {
+    "id": "jeff-dean",
+    "name": "Jeff Dean",
+    "description": "Key architect of Google's distributed computing infrastructure. Pioneer in large-scale distributed systems.",
+    "year": "1968-present",
+    "mainContribution": "Distributed Systems"
+  },
+  {
+    "id": "evan-you",
+    "name": "Evan You",
+    "description": "Created Vue.js framework and Vite build tool. Revolutionized reactive frontend development with an approachable progressive framework.",
+    "year": "1987-present",
+    "mainContribution": "Vue.js"
+  },
+  {
+    "id": "rich-harris",
+    "name": "Rich Harris",
+    "description": "Created Svelte framework and Rollup bundler. Pioneered compile-time reactivity and modern build tooling.",
+    "year": "1982-present",
+    "mainContribution": "Svelte & Rollup"
+  },
+  {
+    "id": "ryan-dahl",
+    "name": "Ryan Dahl",
+    "description": "Created Node.js and Deno. Brought JavaScript to server-side development and later improved upon it with Deno.",
+    "year": "1981-present",
+    "mainContribution": "Node.js & Deno"
+  },
+  {
+    "id": "jordan-walke",
+    "name": "Jordan Walke",
+    "description": "Created React.js at Facebook. Introduced virtual DOM and component-based UI development that transformed web development.",
+    "year": "1984-present",
+    "mainContribution": "React"
+  },
+  {
+    "id": "leslie-lamport",
+    "name": "Leslie Lamport",
+    "description": "Developed LaTeX and fundamental distributed systems concepts. Created temporal logic of actions (TLA) for system verification.",
+    "year": "1941-present",
+    "mainContribution": "LaTeX & Distributed Systems"
+  },
+  {
+    "id": "katherine-johnson",
+    "name": "Katherine Johnson",
+    "description": "NASA mathematician whose calculations were crucial for early space missions. Pioneered use of computers for space flight calculations.",
+    "year": "1918-2020",
+    "mainContribution": "Space Flight Software"
+  },
+  {
+    "id": "chris-lattner",
+    "name": "Chris Lattner",
+    "description": "Created LLVM compiler infrastructure and Swift programming language. Revolutionized compiler optimization and tooling.",
+    "year": "1978-present",
+    "mainContribution": "LLVM & Swift"
+  },
+  {
+    "id": "graydon-hoare",
+    "name": "Graydon Hoare",
+    "description": "Created Rust programming language at Mozilla. Introduced new paradigms for memory safety and concurrent programming.",
+    "year": "1976-present",
+    "mainContribution": "Rust"
+  },
+  {
+    "id": "steve-wozniak",
+    "name": "Steve Wozniak",
+    "description": "Co-founded Apple and designed Apple I and II computers. Pioneer in personal computing and hardware design.",
+    "year": "1950-present",
+    "mainContribution": "Personal Computing"
+  },
+  {
+    "id": "brad-fitzpatrick",
+    "name": "Brad Fitzpatrick",
+    "description": "Created LiveJournal and Memcached. Pioneer in scalable web applications and distributed caching.",
+    "year": "1980-present",
+    "mainContribution": "Memcached"
+  },
+  {
+    "id": "james-clark",
+    "name": "James Clark",
+    "description": "Created XML, developed first HTML browser with images (Mosaic), and founded Netscape. Web pioneer.",
+    "year": "1964-present",
+    "mainContribution": "XML & Web Browsers"
+  },
+  {
+    "id": "joe-armstrong",
+    "name": "Joe Armstrong",
+    "description": "Created Erlang programming language. Pioneer in fault-tolerant distributed systems and actor model implementation.",
+    "year": "1950-2019",
+    "mainContribution": "Erlang"
+  },
+  {
+    "id": "david-heinemeier-hansson",
+    "name": "David Heinemeier Hansson (DHH)",
+    "description": "Created Ruby on Rails framework, revolutionizing web development with 'convention over configuration'.",
+    "year": "1979-present",
+    "mainContribution": "Ruby on Rails"
+  },
+  {
+    "id": "igor-sysoev",
+    "name": "Igor Sysoev",
+    "description": "Created Nginx web server. Revolutionized web server architecture and performance, powering a significant portion of the internet.",
+    "year": "1970-present",
+    "mainContribution": "Nginx"
+  },
+  {
+    "id": "robert-griesemer",
+    "name": "Robert Griesemer",
+    "description": "Co-created Go programming language and worked on V8 JavaScript engine. Major contributions to programming language design and implementation.",
+    "year": "1964-present",
+    "mainContribution": "Go & V8"
+  }
+]
+
