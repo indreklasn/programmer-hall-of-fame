@@ -8,8 +8,6 @@ Every line of code we write today stands on the shoulders of giants. From the ea
 
 As developers, we use tools, languages, and concepts created by these visionaries every day. Understanding their contributions helps us appreciate the evolution of computer science and gives context to the technologies we work with. From Ada Lovelace's first algorithm to modern innovations in AI and distributed systems, each hall of fame member represents a crucial step in computing history.
 
-## Data Structure
-
 Each programmer entry follows this structure:
 
 ```typescript
@@ -50,7 +48,28 @@ We focus on technical contributors rather than business figures. While successfu
 - Provide specific, verifiable contributions
 - Keep descriptions concise and focused on impact
 - Avoid marketing language or hyperbole
-- Include only factual, well-documented information
+
+## The Categories
+
+The hall of fame includes pioneers across multiple domains:
+
+* **Language Creators**: From Fortran to Rust, the innovators who gave us new ways to communicate with machines
+* **Systems Pioneers**: The architects of operating systems, databases, and fundamental computing infrastructure
+* **Web Innovators**: Creators who shaped how we build and interact with the internet
+* **Hardware Revolutionaries**: From transistors to modern processors, those who built the foundations
+* **Tool Builders**: The minds behind the development tools and frameworks we use daily
+* **Theoretical Giants**: Those whose mathematical and theoretical work underlies modern computer science
+* **Open Source Heroes**: Champions who made code sharing and collaboration fundamental to software development
+
+## Selection Criteria
+
+Each member has been chosen based on:
+
+* Fundamental contributions to computer science or software development
+* Long-lasting impact on how we write code or build systems
+* Innovative thinking that opened new possibilities
+* Influence on subsequent generations of programmers
+* Include only factual, well-documented information
 
 ## Code of Conduct
 
