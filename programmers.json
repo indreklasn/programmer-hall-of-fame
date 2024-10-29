@@ -628,5 +628,12 @@
     "description": "Created Dart programming language and V8 JavaScript engine. Pioneer in virtual machine technology, having worked on Self, Strongtalk, HotSpot (Java VM), V8, and Dart VM. His work revolutionized dynamic language performance.",
     "year": "1965-present",
     "mainContribution": "Dart & V8"
+  },
+  {
+    "id": "terry-davis",
+    "name": "Terry A. Davis",
+    "description": "Created TempleOS, a complete operating system written entirely from scratch in his own programming language. Developed unique approaches to system design and achieved incredible technical feats including a 20,000 line kernel written in HolyC.",
+    "year": "1969-2018",
+    "mainContribution": "TempleOS"
   }
 ]
