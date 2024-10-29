@@ -488,5 +488,103 @@
     "description": "Created MATLAB, revolutionizing numerical computing and technical computing. His work made matrix manipulation and scientific computing accessible to engineers and scientists worldwide.",
     "year": "1939-present",
     "mainContribution": "MATLAB"
+  },
+  {
+    "id": "alan-kay",
+    "name": "Alan Kay",
+    "description": "Created Smalltalk and pioneered object-oriented programming. Developed the concept of personal computing and graphical user interfaces at Xerox PARC. His vision of 'the computer as we know it today' shaped modern computing.",
+    "year": "1940-present",
+    "mainContribution": "Smalltalk & OOP"
+  },
+  {
+    "id": "robin-milner",
+    "name": "Robin Milner",
+    "description": "Created ML programming language and pioneered type inference. Developed theoretical foundations for concurrent systems with CCS and pi-calculus. Turing Award winner who revolutionized type systems.",
+    "year": "1934-2010",
+    "mainContribution": "ML & Type Theory"
+  },
+  {
+    "id": "guy-steele",
+    "name": "Guy Steele",
+    "description": "Co-created Scheme, contributed to Common Lisp, and developed early specifications for Java. Pioneer in programming language design and parallel computing languages. Led development of Fortress.",
+    "year": "1954-present",
+    "mainContribution": "Scheme & Language Design"
+  },
+  {
+    "id": "gerald-jay-sussman",
+    "name": "Gerald Jay Sussman",
+    "description": "Co-created Scheme with Guy Steele. Developed the SICP curriculum and wrote 'Structure and Interpretation of Computer Programs'. Pioneer in AI and computational physics.",
+    "year": "1947-present",
+    "mainContribution": "Scheme & SICP"
+  },
+  {
+    "id": "stephen-wolfram",
+    "name": "Stephen Wolfram",
+    "description": "Created Mathematica and the Wolfram Language. Pioneer in computational science and complex systems. His work revolutionized symbolic computation and technical computing.",
+    "year": "1959-present",
+    "mainContribution": "Mathematica"
+  },
+  {
+    "id": "xavier-leroy",
+    "name": "Xavier Leroy",
+    "description": "Created OCaml programming language and the CompCert verified C compiler. Pioneer in type systems, functional programming, and formal verification of critical software.",
+    "year": "1968-present",
+    "mainContribution": "OCaml & CompCert"
+  },
+  {
+    "id": "nathaniel-rochester",
+    "name": "Nathaniel Rochester",
+    "description": "Created the first assembler for IBM 701. Pioneer in computer organization and early programming languages. Key figure in early IBM computer development.",
+    "year": "1919-2001",
+    "mainContribution": "First Assembler"
+  },
+  {
+    "id": "ken-kennedy",
+    "name": "Ken Kennedy",
+    "description": "Created High Performance Fortran (HPF). Pioneer in optimizing compilers and high-performance computing. Founded Rice University's computer science program.",
+    "year": "1945-2007",
+    "mainContribution": "High Performance Fortran"
+  },
+  {
+    "id": "simon-peyton-jones",
+    "name": "Simon Peyton Jones",
+    "description": "Key architect of Haskell and the Glasgow Haskell Compiler (GHC). Pioneer in functional programming implementation and language design. Major contributor to lazy evaluation techniques.",
+    "year": "1958-present",
+    "mainContribution": "Haskell & GHC"
+  },
+  {
+    "id": "tom-christiansen",
+    "name": "Tom Christiansen",
+    "description": "Major contributor to Perl language development and documentation. Created Perl core modules and wrote influential Perl books. Pioneer in making Perl accessible and practical.",
+    "year": "1963-present",
+    "mainContribution": "Perl Development"
+  },
+  {
+    "id": "chris-granger",
+    "name": "Chris Granger",
+    "description": "Created Light Table IDE and Eve programming language. Pioneer in modern programming environments and live programming interfaces. Influenced modern development tools.",
+    "year": "1985-present",
+    "mainContribution": "Light Table & Eve"
+  },
+  {
+    "id": "alain-colmerauer",
+    "name": "Alain Colmerauer",
+    "description": "Created Prolog programming language. Pioneer in logic programming and computational linguistics. His work revolutionized artificial intelligence and expert systems.",
+    "year": "1941-2017",
+    "mainContribution": "Prolog"
+  },
+  {
+    "id": "john-kemeny",
+    "name": "John G. Kemeny",
+    "description": "Co-created BASIC programming language at Dartmouth. Made computing accessible to non-specialists and pioneered computer education. President of Dartmouth College.",
+    "year": "1926-1992",
+    "mainContribution": "BASIC"
+  },
+  {
+    "id": "thomas-kurtz",
+    "name": "Thomas E. Kurtz",
+    "description": "Co-created BASIC programming language with John Kemeny. Pioneer in making computing accessible to students and non-specialists. Developed the Dartmouth Time Sharing System.",
+    "year": "1928-present",
+    "mainContribution": "BASIC"
   }
 ]
