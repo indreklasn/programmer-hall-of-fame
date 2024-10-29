@@ -341,5 +341,56 @@
     "description": "Pioneer in database systems, created Ingres and PostgreSQL. Founded numerous database companies and developed fundamental concepts in relational and non-relational databases. His work spans from early relational systems to modern distributed databases.",
     "year": "1943-present",
     "mainContribution": "PostgreSQL & Database Systems"
-  }
+  },
+  [
+    {
+      "id": "edgar-codd",
+      "name": "Edgar F. Codd",
+      "description": "Invented the relational model for database management, which revolutionized database design and led to SQL. His '12 rules' defined relational databases and changed how we store and retrieve data.",
+      "year": "1923-2003",
+      "mainContribution": "Relational Database Model"
+    },
+    {
+      "id": "bob-kahn",
+      "name": "Bob Kahn",
+      "description": "Co-invented TCP/IP protocols with Vint Cerf, establishing the fundamental communication architecture of the Internet. Pioneer in packet-switching technology and internet standardization.",
+      "year": "1938-present",
+      "mainContribution": "TCP/IP & Internet Architecture"
+    },
+    {
+      "id": "ivan-sutherland",
+      "name": "Ivan Sutherland",
+      "description": "Created Sketchpad, the first graphical user interface and computer-aided design program. Pioneer in computer graphics, virtual reality, and object-oriented programming concepts.",
+      "year": "1938-present",
+      "mainContribution": "Sketchpad & Computer Graphics"
+    },
+    {
+      "id": "jonathan-gay",
+      "name": "Jonathan Gay",
+      "description": "Created Flash (originally FutureSplash Animator), revolutionizing web animation and interactive content. His work enabled rich internet applications and web-based games.",
+      "year": "1967-present",
+      "mainContribution": "Adobe Flash"
+    },
+    {
+      "id": "ray-kurzweil",
+      "name": "Ray Kurzweil",
+      "description": "Invented first CCD flatbed scanner, first print-to-speech reading machine for the blind, and first commercial text-to-speech synthesizer. Pioneer in optical character recognition and AI applications.",
+      "year": "1948-present",
+      "mainContribution": "OCR & Speech Synthesis"
+    },
+    {
+      "id": "butler-lampson",
+      "name": "Butler Lampson",
+      "description": "Fundamental contributions to personal computing, including GUIs, word processing, networks, and operating systems. Led development of Alto at Xerox PARC, which inspired modern PCs.",
+      "year": "1943-present",
+      "mainContribution": "Personal Computing Architecture"
+    },
+    {
+      "id": "peter-naur",
+      "name": "Peter Naur",
+      "description": "Co-created Backus-Naur Form (BNF) notation, contributed significantly to ALGOL 60 development, and pioneered software engineering concepts. Influenced programming language design fundamentals.",
+      "year": "1928-2016",
+      "mainContribution": "BNF & ALGOL"
+    }
+  ]
 ]
