@@ -433,6 +433,62 @@
       "description": "Created Laravel, the most popular PHP framework, revolutionizing modern PHP development. Developed key tools like Forge, Envoyer, and Vapor, making PHP deployment and development more accessible and robust.",
       "year": "1986-present",
       "mainContribution": "Laravel Framework"
+    },
+    {
+      "id": "rich-hickey",
+      "name": "Rich Hickey",
+      "description": "Created Clojure programming language, bringing modern Lisp to the JVM. Pioneered innovative concepts in functional programming and immutable data structures. His emphasis on simplicity and immutability influenced modern software design.",
+      "year": "1958-present",
+      "mainContribution": "Clojure"
+    },
+    {
+      "id": "martin-odersky",
+      "name": "Martin Odersky",
+      "description": "Created Scala programming language and contributed to Java generics. Combined object-oriented and functional programming, significantly influencing big data processing and concurrent programming.",
+      "year": "1958-present",
+      "mainContribution": "Scala"
+    },
+    {
+      "id": "jose-valim",
+      "name": "José Valim",
+      "description": "Created Elixir programming language, building on Erlang's foundation to create a modern, functional language focused on scalability and maintainability. Pioneer in concurrent programming and fault-tolerant systems.",
+      "year": "1986-present",
+      "mainContribution": "Elixir"
+    },
+    {
+      "id": "roberto-ierusalimschy",
+      "name": "Roberto Ierusalimschy",
+      "description": "Created Lua programming language, which became the leading scripting language in game development. Pioneered lightweight, embeddable language design with unique features like coroutines and metatables.",
+      "year": "1960-present",
+      "mainContribution": "Lua"
+    },
+    {
+      "id": "phil-wadler",
+      "name": "Phil Wadler",
+      "description": "Key contributor to Haskell language design and Java generics. Pioneer in functional programming theory, introduced monads to functional programming, and developed the concept of type classes.",
+      "year": "1956-present",
+      "mainContribution": "Haskell & Java Generics"
+    },
+    {
+      "id": "walter-bright",
+      "name": "Walter Bright",
+      "description": "Created D programming language and the first native C++ compiler for DOS. Combined systems programming capabilities with modern language features, influencing low-level programming language design.",
+      "year": "1957-present",
+      "mainContribution": "D Language"
+    },
+    {
+      "id": "jeremy-ashkenas",
+      "name": "Jeremy Ashkenas",
+      "description": "Created CoffeeScript and Backbone.js. His work influenced JavaScript development and MVC frameworks, paving the way for modern JavaScript syntax and frameworks.",
+      "year": "1982-present",
+      "mainContribution": "CoffeeScript & Backbone.js"
+    },
+    {
+      "id": "cleve-moler",
+      "name": "Cleve Moler",
+      "description": "Created MATLAB, revolutionizing numerical computing and technical computing. His work made matrix manipulation and scientific computing accessible to engineers and scientists worldwide.",
+      "year": "1939-present",
+      "mainContribution": "MATLAB"
     }
   ]
 ]
