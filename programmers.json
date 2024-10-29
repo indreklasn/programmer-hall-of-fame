@@ -628,5 +628,5 @@
     "description": "Created Dart programming language and V8 JavaScript engine. Pioneer in virtual machine technology, having worked on Self, Strongtalk, HotSpot (Java VM), V8, and Dart VM. His work revolutionized dynamic language performance.",
     "year": "1965-present",
     "mainContribution": "Dart & V8"
-  },
+  }
 ]
