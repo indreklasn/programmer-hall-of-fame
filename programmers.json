@@ -391,6 +391,41 @@
       "description": "Co-created Backus-Naur Form (BNF) notation, contributed significantly to ALGOL 60 development, and pioneered software engineering concepts. Influenced programming language design fundamentals.",
       "year": "1928-2016",
       "mainContribution": "BNF & ALGOL"
+    },
+    {
+      "id": "paul-allen",
+      "name": "Paul Allen",
+      "description": "Co-founded Microsoft and created Microsoft BASIC, the foundational programming language for early personal computers. Pioneered microcomputer software development and helped establish the PC software industry.",
+      "year": "1953-2018",
+      "mainContribution": "Microsoft BASIC"
+    },
+    {
+      "id": "theo-de-raadt",
+      "name": "Theo de Raadt",
+      "description": "Created OpenBSD and OpenSSH, setting new standards for security-focused operating systems and secure network communication. His emphasis on security and code correctness influenced modern security practices.",
+      "year": "1968-present",
+      "mainContribution": "OpenBSD & OpenSSH"
+    },
+    {
+      "id": "matthias-ettrich",
+      "name": "Matthias Ettrich",
+      "description": "Created KDE desktop environment and initiated Qt development for Linux. Revolutionized Linux user interfaces and desktop applications, making Linux more accessible to everyday users.",
+      "year": "1972-present",
+      "mainContribution": "KDE Desktop"
+    },
+    {
+      "id": "roy-fielding",
+      "name": "Roy Fielding",
+      "description": "Defined REST architectural style, co-founded Apache HTTP Server project, and principal author of HTTP/1.1 protocol. His work forms the theoretical foundation of modern web architecture.",
+      "year": "1965-present",
+      "mainContribution": "REST & Apache"
+    },
+    {
+      "id": "jim-gray",
+      "name": "Jim Gray",
+      "description": "Pioneer in database and transaction processing systems. Developed fundamental concepts in transaction processing, recovery, and distributed database systems. Turing Award winner who revolutionized how we handle data.",
+      "year": "1944-2007",
+      "mainContribution": "Transaction Processing"
     }
   ]
 ]
