@@ -334,6 +334,12 @@
     "description": "Created FORMAC (FORmula MAnipulation Compiler), the first widely used computer language for symbolic mathematics. Key developer of COBOL and pioneered the history of programming languages.",
     "year": "1928-2017",
     "mainContribution": "FORMAC & Language History"
+  },
+  {
+    "id": "michael-stonebraker",
+    "name": "Michael Stonebraker",
+    "description": "Pioneer in database systems, created Ingres and PostgreSQL. Founded numerous database companies and developed fundamental concepts in relational and non-relational databases. His work spans from early relational systems to modern distributed databases.",
+    "year": "1943-present",
+    "mainContribution": "PostgreSQL & Database Systems"
   }
 ]
-
