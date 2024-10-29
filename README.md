@@ -1,4 +1,4 @@
-# Programmer Hall of Fame 🏆
+# Legendary Programmer Hall of Fame 🏆
 
 A community-curated list of legendary programmers. This repository serves as the data source for [https://www.trevorlasn.com/hall-of-fame](https://www.trevorlasn.com/hall-of-fame), celebrating the visionaries who laid the foundation for modern computing.
 
