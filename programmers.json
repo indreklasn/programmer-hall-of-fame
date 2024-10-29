@@ -426,6 +426,13 @@
       "description": "Pioneer in database and transaction processing systems. Developed fundamental concepts in transaction processing, recovery, and distributed database systems. Turing Award winner who revolutionized how we handle data.",
       "year": "1944-2007",
       "mainContribution": "Transaction Processing"
+    },
+    {
+      "id": "taylor-otwell",
+      "name": "Taylor Otwell",
+      "description": "Created Laravel, the most popular PHP framework, revolutionizing modern PHP development. Developed key tools like Forge, Envoyer, and Vapor, making PHP deployment and development more accessible and robust.",
+      "year": "1986-present",
+      "mainContribution": "Laravel Framework"
     }
   ]
 ]
