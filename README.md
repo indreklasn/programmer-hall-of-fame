@@ -1,17 +1,19 @@
 # Programmer Hall of Fame 🏆
 
-A community-curated list of programming pioneers who shaped the software industry. This repository serves as the data source for [https://www.trevorlasn.com/hall-of-fame](https://www.trevorlasn.com/hall-of-fame), celebrating the visionaries who laid the foundation for modern computing.
+A community-curated list of legendary programmers. This repository serves as the data source for [https://www.trevorlasn.com/hall-of-fame](https://www.trevorlasn.com/hall-of-fame), celebrating the visionaries who laid the foundation for modern computing.
 
 ## About
 
-These pioneers didn't just write code - they dreamed up entirely new ways of thinking. From Ada's first algorithm to today's innovations, each pioneer pushed the boundaries of what's possible. Their ideas live on in every line of code we write.
+Every line of code we write today stands on the shoulders of giants. From the early pioneers who dreamed up the first algorithms to modern innovators pushing the boundaries of what's possible, this Hall of Fame celebrates the legendary programmers who shaped our digital world.
+
+As developers, we use tools, languages, and concepts created by these visionaries every day. Understanding their contributions helps us appreciate the evolution of computer science and gives context to the technologies we work with. From Ada Lovelace's first algorithm to modern innovations in AI and distributed systems, each hall of fame member represents a crucial step in computing history.
 
 ## Data Structure
 
 Each programmer entry follows this structure:
 
 ```typescript
-interface Programmer {
+{
   id: string;          // kebab-case unique identifier
   name: string;        // Full name and optional nickname
   description: string; // Brief bio focusing on technical contributions
