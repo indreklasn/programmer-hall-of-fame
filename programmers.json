@@ -628,5 +628,47 @@
     "description": "Created Dart programming language and V8 JavaScript engine. Pioneer in virtual machine technology, having worked on Self, Strongtalk, HotSpot (Java VM), V8, and Dart VM. His work revolutionized dynamic language performance.",
     "year": "1965-present",
     "mainContribution": "Dart & V8"
+  }
+  {
+    "id": "michael-widenius",
+    "name": "Michael Widenius",
+    "description": "Created MySQL, the world's most popular open source database, and MariaDB. His work democratized database access and powered much of the early web. Pioneer in open source database development.",
+    "year": "1962-present",
+    "mainContribution": "MySQL & MariaDB"
   },
+  {
+    "id": "charles-bachman",
+    "name": "Charles Bachman",
+    "description": "Created the first database management system (IDS) and the Integrated Data Store. Turing Award winner who pioneered database concepts and invented the first DBMS. His work laid foundation for modern databases.",
+    "year": "1924-2017",
+    "mainContribution": "First DBMS"
+  },
+  {
+    "id": "arthur-whitney",
+    "name": "Arthur Whitney",
+    "description": "Created K programming language and kdb+. Pioneer in array programming and high-performance financial computing. His work revolutionized time-series databases and financial analytics.",
+    "year": "1957-present",
+    "mainContribution": "K & KDB+"
+  },
+  {
+    "id": "chuck-moore",
+    "name": "Chuck Moore",
+    "description": "Created Forth programming language and pioneered stack-based computing. His minimalist approach influenced programming language design and embedded systems. Invented colorForth and machine-specific optimizations.",
+    "year": "1938-present",
+    "mainContribution": "Forth"
+  },
+  {
+    "id": "aaron-swartz",
+    "name": "Aaron Swartz",
+    "description": "Co-authored RSS specification, co-founded Reddit, and created web.py framework. Pioneer in web technologies and open access advocacy. His work on information freedom influenced modern internet culture.",
+    "year": "1986-2013",
+    "mainContribution": "RSS & Web Technologies"
+  },
+  {
+    "id": "fabrice-bellard",
+    "name": "Fabrice Bellard",
+    "description": "Created QEMU, FFmpeg, TinyCC, QuickJS, and BPG. Programming polymath who revolutionized emulation, multimedia processing, and JavaScript engines. His tools are fundamental to modern computing infrastructure.",
+    "year": "1972-present",
+    "mainContribution": "QEMU & FFmpeg"
+  }
 ]
