@@ -670,5 +670,12 @@
     "description": "Created QEMU, FFmpeg, TinyCC, QuickJS, and BPG. Programming polymath who revolutionized emulation, multimedia processing, and JavaScript engines. His tools are fundamental to modern computing infrastructure.",
     "year": "1972-present",
     "mainContribution": "QEMU & FFmpeg"
+  },
+  {
+    "id": "allen-newell",
+    "name": "Allen Newell",
+    "description": "Pioneer in artificial intelligence and cognitive psychology. Co-created the first AI programs including the Logic Theorist and General Problem Solver.",
+    "year": "1927-1992",
+    "mainContribution": "Artificial Intelligence Foundations"
   }
 ]
