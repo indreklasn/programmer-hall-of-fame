@@ -677,5 +677,33 @@
     "description": "Pioneer in artificial intelligence and cognitive psychology. Co-created the first AI programs including the Logic Theorist and General Problem Solver.",
     "year": "1927-1992",
     "mainContribution": "Artificial Intelligence Foundations"
-  }
+  },
+  {
+    "id": "von-neumann",
+    "name": "John von Neumann",
+    "description": "Created the concept of stored program computing and designed the von Neumann architecture used in most modern computers. Made foundational contributions to computer architecture, logic design, and programming.",
+    "year": "1903-1957",
+    "mainContribution": "Von Neumann Architecture"
+    },
+    {
+    "id": "charles-babbage",
+    "name": "Charles Babbage",
+    "description": "Designed the first automatic computing engines. Created plans for the Analytical Engine, a general-purpose computer that established core concepts like memory, processor and programming.",
+    "year": "1791-1871",
+    "mainContribution": "First Computer Design"
+    },
+    {
+    "id": "seymour-cray",
+    "name": "Seymour Cray",
+    "description": "Pioneer of supercomputing who designed many of the world's fastest computers. Founded Cray Research and revolutionized high-performance computing architecture.",
+    "year": "1925-1996",
+    "mainContribution": "Supercomputer Design"
+    },
+    {
+    "id": "kathleen-yushchenko",
+    "name": "Kathleen Yushchenko",
+    "description": "Created Address programming language, one of the first high-level programming languages that introduced indirect addressing and pointers. Made major contributions to theoretical computer science.",
+    "year": "1919-2001",
+    "mainContribution": "Address Programming Language"
+    }
 ]
